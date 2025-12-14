@@ -16,3 +16,11 @@ The core business problem is how to grow consumer lending profitably without inc
 
 # Data Source
 [Kaggle credit card approval prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
+
+# Methods
+1. Data cleaning & filtering
+2. Exploratory Data Analysis
+3. Segmentation / cohort grouping
+4. Aggregation & KPI analysis
+5. Comparative analysis
+
