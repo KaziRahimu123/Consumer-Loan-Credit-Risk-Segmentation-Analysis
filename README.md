@@ -10,3 +10,7 @@ The strongest, lowest-risk growth opportunity comes from balancing income and st
 - [Author](#author)
 - [Description](#description)
 - [Key Findings](#key-findings)
+
+# Business Problem
+The core business problem is how to grow consumer lending profitably without increasing default risk by using application data to target and approve the right customers with the right offers. The lender needs to identify which demographic and income segments show strong job stability for standard loans, match housing situation and dependent burden to the correct product (unsecured vs. longer-term home-related loans), design pricing and credit limits that balance income and employment tenure (including gender patterns in the data), and isolate “premium” profiles that combine higher income with low household burden for low-risk, high-value credit products.
+
