@@ -24,3 +24,9 @@ The core business problem is how to grow consumer lending profitably without inc
 4. Aggregation & KPI analysis
 5. Comparative analysis
 
+# Tech Stack
+1. SQL 
+2. Excel
+3. Tableau
+
+
