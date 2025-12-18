@@ -45,7 +45,9 @@ The core business problem is broken down into four segments-
 [![People with Most Stable Employment Status (Tableau Preview)](assets/Clients%20with%20Most%20Stable%20Income%20for%20Standard%20Loan%20Products.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/PeoplewithMostStableEmploymentStatusforStandardLoanProducts/Sheet1#1)
 
 For Stability First Approach: house-only applicants
+
 For Income First Approach: car & house and car-only applicants
+
 For a mix of both: Prioratize people who own assets like house or car because people who don't are vulnerable and may be under financial pressure
 
 
