@@ -56,4 +56,8 @@ For a mix of both: Prioratize people who own assets like house or car because pe
 
 [![People Who Qualify For Longer Term Mortgage (Tableau Preview)](assets/People%20who%20qualify%20for%20long%20term%20mortgage.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/ClientsforUnsecuredLoansLongerTermMortgage/Dashboard1)
 
+Mortgage focus:  We should focus on $100k–$199k clients, because that’s where most mortgage-qualified clients sit.
 
+Unsecured focus: We should focus on $100k–$249k, with a strong extension into $250k – $299k. 
+
+Cross-sell opportunity: We should build a mortgage readiness / pre-approval path targeting $200k–$299k unsecured-qualified clients. For clients 100k-200k within the unsecured loans category, we should approve them for limited unsecured loans based on their income stability and other related factors so that it doesn’t become risky for the bank.
