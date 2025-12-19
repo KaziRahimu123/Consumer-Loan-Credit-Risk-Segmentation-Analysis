@@ -52,4 +52,8 @@ For a mix of both: Prioratize people who own assets like house or car because pe
 
 ## Housing, Income & Family Burden: Segment Prioritization for Unsecured Loans vs. Home-Based Products
 
+[![People Who Qualify for Unsecured Loans (Tableau Preview)](assets/People%20Who%20Qualify%20for%20Unsecured%20Loans.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/ClientsforUnsecuredLoansLongerTermMortgage/Dashboard1)
+
+[![People Who Qualify For Longer Term Mortgage (Tableau Preview)](assets/People%20who%20qualify%20for%20long%20term%20mortgage.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/ClientsforUnsecuredLoansLongerTermMortgage/Dashboard1)
+
 
