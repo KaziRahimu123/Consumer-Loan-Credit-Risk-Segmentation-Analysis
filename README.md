@@ -77,4 +77,7 @@ So we should focus on both income and stability during product pricing and marke
 Also, women should have easier income requirements than men if they have a stable work history.
 Men should have a stricter income requirement and a comparatively less strict stability requirement.
 
+## Premium Candidate Profiles: High Income with Low Dependent Burden for Low-Risk Credit Offers
+
+
 
