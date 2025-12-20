@@ -63,3 +63,8 @@ Unsecured focus: We should focus on $100k–$249k, with a strong extension into 
 Cross-sell opportunity: We should build a mortgage readiness / pre-approval path targeting $200k–$299k unsecured-qualified clients. For clients 100k-200k within the unsecured loans category, we should approve them for limited unsecured loans based on their income stability and other related factors so that it doesn’t become risky for the bank.
 
 ## Gender-Based Differences in Income & Employment for Loan Pricing and Marketing
+
+[![How Many More Years Men Have Worked Than Women in the Same Profession (Tableau Preview)](assets/How%20Many%20More%20Years%20Men%20Have%20Worked%20Than%20Women%20in%20the%20Same%20Profession.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
+
+[![Percentage by Which Men Earn More Than Women in the Same Profession (Tableau Preview)](assets/Percentage%20by%20Which%20Men%20Earn%20More%20Than%20Women%20in%20the%20Same%20Profession.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
+
