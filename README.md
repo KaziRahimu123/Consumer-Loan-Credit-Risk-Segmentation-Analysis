@@ -68,3 +68,13 @@ Cross-sell opportunity: We should build a mortgage readiness / pre-approval path
 
 [![Percentage by Which Men Earn More Than Women in the Same Profession (Tableau Preview)](assets/Percentage%20by%20Which%20Men%20Earn%20More%20Than%20Women%20in%20the%20Same%20Profession.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
 
+Income gap: men average ~$218k vs women ~$181k, so men earn ~20% more overall.
+
+Stability: women average 7.57 years employed vs men 5.93, so women have 1.6 more years of tenure on average.
+
+So we should focus on both income and stability during product pricing and marketing products.
+
+Also, women should have easier income requirements than men if they have a stable work history.
+Men should have a stricter income requirement and a comparatively less strict stability requirement.
+
+
