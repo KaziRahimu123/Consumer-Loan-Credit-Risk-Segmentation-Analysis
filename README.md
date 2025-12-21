@@ -79,5 +79,8 @@ Men should have a stricter income requirement and a comparatively less strict st
 
 ## Premium Candidate Profiles: High Income with Low Dependent Burden for Low-Risk Credit Offers
 
+[![Premium Client Insights: Education, Income & Family Status (Tableau Preview)](assets/Premium%20Client%20Insights_%20Education%2C%20Income%20%26%20Family%20Status.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/PremiumClientsforCredit/Dashboard1_1#2)
+
+[![Premium Client Insights: Family Status, Housing & Income (Tableau Preview)](assets/Premium%20Client%20Insights_%20Family%20Status%2C%20Housing%20%26%20Income.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/PremiumClientsforCredit/Dashboard1_1#2)
 
 
