@@ -83,4 +83,12 @@ Men should have a stricter income requirement and a comparatively less strict st
 
 [![Premium Client Insights: Family Status, Housing & Income (Tableau Preview)](assets/Premium%20Client%20Insights_%20Family%20Status%2C%20Housing%20%26%20Income.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/PremiumClientsforCredit/Dashboard1_1#2)
 
+Higher education has the top average income $290,966, while Secondary/Secondary Special is slightly lower at $277,463. They also have the highest number of clients.
+So we should prioritize clients with higher education as premium clients.
+
+In family status, we don’t have that much difference in income, so it's not a helpful category.
+
+Co-op apartments have the highest average income $306,153, followed by rents $285,092. We can offer those clients premium features related to housing such as premium low interest rates.
+
+Single/ Married people have mixed positions in terms of income in different housing categories.
 
