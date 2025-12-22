@@ -92,3 +92,5 @@ Co-op apartments have the highest average income $306,153, followed by rents $28
 
 Single/ Married people have mixed positions in terms of income in different housing categories.
 
+# Lessons learned and recommendation
+
