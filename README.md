@@ -94,3 +94,30 @@ Single/ Married people have mixed positions in terms of income in different hous
 
 # Lessons learned and recommendation
 
+Income and Stability Both Matters: It depends on us if we want to prioritize any one specific criteria but both matter in reality.
+
+Asset ownership is a strong signal: People who own a house and/or a car tend to look less financially vulnerable than those with no assets, which supports a risk-first segmentation strategy.
+
+Income bands reflect the product we prefer for customers: People from 100k-250k are the ones that qualify for both Income vs. stability tradeoff shows up clearly by gender (men higher income, women higher work years), which reinforces that pricing/limits should account for both capacity and stability (not just income).
+
+Premium signals are clearer in education & housing than family status: Higher education and certain housing types (like co-ops) show stronger premium-income patterns, while family status doesn’t separate income enough to be a reliable premium filter.
+
+There’s a built-in cross-sell funnel: Unsecured-qualified clients in $200k–$299k look like the best group for a mortgage readiness / pre-approval pathway.
+
+Standard loans (stability-first): Prioritize house-only applicants (and generally asset owners).
+
+Higher-limit Increase for credit cards (income-first): Target car & house and car-only applicants.
+
+Mortgage focus: Concentrate on $100k–$199k or more income clients with no house.
+
+Unsecured focus: Prioritize $100k–$249k, extend into $250k–$299k for strong profiles.
+
+Cross-sell: Create a mortgage readiness / pre-approval path for $200k–$299k unsecured-qualified clients.  
+Give $100k–$200k unsecured clients smaller limits unless stability is strong.
+
+Pricing/marketing: Use income + work stability together (apply rules consistently across everyone).
+
+Premium targeting: Prioritize higher education clients and high-income housing segments (like co-ops/high-income renters) with premium rate/benefit offers.
+
+
+
