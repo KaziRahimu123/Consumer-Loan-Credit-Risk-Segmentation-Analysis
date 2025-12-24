@@ -121,4 +121,13 @@ Premium targeting: Prioritize higher education clients and high-income housing s
 
 # Limitations and What Could Have Been Improved
 
+1. No real Credit score ( In real life, we have credit scores as a big factor)
+
+2. We don’t have a default dataset which will help us figure out clients (patterns in their record) who defaulted
+
+3. If we had asset values for clients not just their status, it would have been better for calculation.
+
+4. We should have had interest rates, QE (Quantitative Easing), QT (Quantitative Tightening) and more info to do deeper analysis.
+
+
 
