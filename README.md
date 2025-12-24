@@ -4,7 +4,7 @@
 [Kazi Rahimu Islam](https://github.com/KaziRahimu123)
 
 # Key Findings
-The strongest, lowest-risk growth opportunity comes from balancing income and stability rather than prioritizing a single factor.
+The strongest, lowest-risk growth opportunity comes from balancing income, asset ownership status, housing status and stability rather than prioritizing a single factor.
 
 # Table of Content
 - [Author](#author)
