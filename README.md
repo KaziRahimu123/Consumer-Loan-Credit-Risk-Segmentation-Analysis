@@ -119,5 +119,6 @@ Pricing/marketing: Use income + work stability together (apply rules consistentl
 
 Premium targeting: Prioritize higher education clients and high-income housing segments (like co-ops/high-income renters) with premium rate/benefit offers.
 
+# Limitations and What Could Have Been Improved
 
 
