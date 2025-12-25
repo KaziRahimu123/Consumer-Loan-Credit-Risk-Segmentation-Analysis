@@ -64,7 +64,7 @@ Cross-sell opportunity: We should build a mortgage readiness / pre-approval path
 
 ## Gender-Based Differences in Income & Employment for Loan Pricing and Marketing
 
-[![How Many More Years Men Have Worked Than Women in the Same Profession (Tableau Preview)](assets/How%20Many%20More%20Years%20Men%20Have%20Worked%20Than%20Women%20in%20the%20Same%20Profession.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
+[![How Many More Years Men Have Worked Than Women in the Same Profession (Tableau Preview)](assets/How%20Many%20More%20Years%20Men%20Have%20Worked%20Than%20Women%20in%20the%20Same%20Profession%20(1).png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
 
 [![Percentage by Which Men Earn More Than Women in the Same Profession (Tableau Preview)](assets/Percentage%20by%20Which%20Men%20Earn%20More%20Than%20Women%20in%20the%20Same%20Profession.png)](https://public.tableau.com/app/profile/kazi.islam5206/viz/EarningExperienceGapBetweenGenders/Sheet2#3)
 
